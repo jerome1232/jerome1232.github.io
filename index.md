@@ -12,7 +12,8 @@
 #### Education
 
 
-***Brigham Young University - Idaho***, *Computer Science* : ***2019 - 2022***
+***Brigham Young University - Idaho***, 2019 - 2022
+  * *Computer Science*
 
 #### Projects
   * Greenhouse Project: [PiGro](https://github.com/jerome1232/PiGro)
