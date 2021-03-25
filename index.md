@@ -6,7 +6,15 @@
 | <a href="https://www.linkedin.com/in/jeremy-jones-b904a284/">LinkedIn</a>
 | <a href="https://github.com/jerome1232">GitHub</a>
 </div>
+
 ---
+
+#### Education
+
+`2019-2022`
+
+***Brigham Young University - Idaho***, *Computer Science*
+
 #### Projects
   * Greenhouse Project: [PiGro](https://github.com/jerome1232/PiGro)
     * This is an (mostly) automated greenhouse controlled by an Arduino Uno, a graphical user interface is provided by a Raspberry Pi hosting a local webserver and allows for viewing sensor data and controlling thresholds at which the Arduino takes action.
