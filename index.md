@@ -11,7 +11,6 @@
 
 #### Education
 
-
 ***Brigham Young University - Idaho***, 2019 - 2022
   * *Computer Science*
 
