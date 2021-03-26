@@ -1,7 +1,7 @@
 # Jeremy D. Jones
 ---
 <div id="webaddress">
-<a href="j.jones1232@gmail.com">j.jones1232@gmail.com</a>
+<a href="mailto:j.jones1232@gmail.com">j.jones1232@gmail.com</a>
 | <a href="https://www.linkedin.com/in/jeremy-jones-b904a284/">LinkedIn</a>
 | <a href="https://github.com/jerome1232">GitHub</a>
 </div>
