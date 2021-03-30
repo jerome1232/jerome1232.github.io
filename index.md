@@ -22,10 +22,12 @@
   * **Greenhouse Project**: [PiGro](https://github.com/jerome1232/PiGro)
     * This is an (mostly) automated greenhouse controlled by an Arduino Uno, a graphical user interface is provided by a Raspberry Pi hosting a local webserver and allows for viewing sensor data by leveraging D3.js, and controlling thresholds at which the Arduino takes action.
   * **Covid-19 Tracker**:
-    * As part of a team of three developed a Covid-19 tracking app for Android using Kotlin.
-    * I utilized three JSON api endpoints to find the data requested whether it be a state or country.
+    * Developed a Covid-19 tracking app as part of a team for Android using Kotlin.
+    * Utilized three JSON api endpoints to find the data requested whether it be a state or country.
     * Primary responsibility was resolving data requests, I also contributed to debugging various ui issues.
     * Collaborated remotely using Bitbucket with Git.
+  * **Data Structure Tutorial**: [DataStruct-Tutorial](https://jerome1232.github.io/datastruct-tut/)
+    * Created a basic tutorial teaching Data Structures using Python.
 
   *(Projects below are on hold due to school time demands)*
 
