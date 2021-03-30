@@ -46,5 +46,5 @@
 ---
 ### Skills
 
-  * Python, C, C++, Java, Kotlin, JavaScript/CSS/HTML
-  * Code collaboration via GitHub
+  * Python, C, C++, Java, Kotlin, JavaScript/CSS/HTML.
+  * Code collaboration via GitHub.
