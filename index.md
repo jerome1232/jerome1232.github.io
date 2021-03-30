@@ -12,8 +12,11 @@
 
 ***Brigham Young University - Idaho***, 2019 - 2022
   * *Computer Science*
+      *Machine Learning Emphasis*
 
+---
 #### Projects
+
   * **Greenhouse Project**: [PiGro](https://github.com/jerome1232/PiGro)
     * This is an (mostly) automated greenhouse controlled by an Arduino Uno, a graphical user interface is provided by a Raspberry Pi hosting a local webserver and allows for viewing sensor data and controlling thresholds at which the Arduino takes action.
 
@@ -22,4 +25,24 @@
     * A small remote controlled car that can be controlled from your phone.
   * **Companion App for Pi Car**: [PiCar-Client](https://github.com/jerome1232/PiCar-Client)
     * An android app that allows control of the car in the project above.
+---
+#### Work Experience
 
+  * **Target Corporation**: 2008 - Present
+    * ***Reverse Logistics***
+      * Act as a primary contact point with vendors.
+      * Receive incoming product, ensure all processes are correctly followed by team when salvaging or defecting product.
+    * ***Computerized Maintenance Management System Technician***
+      * Managed trailer maintenance program with third party vendor.
+      * Researched damages on trailers and pursued claims against third parties when fault was found resulting in saving thousands of dollars in trailer repairs.
+      * Took part in massive parts data overhaul to improve our parts information and update all missing information regarding parts prior to a template rollout across entire system.
+    * ***Inventory Manager***
+      * Trained 100+ new team members through Target's Just-inTime training program on powered equipment and in department roles resulting in improved quality and productivity.
+      * Assured quality through regular audits and follow up training with high error causes.
+      * Processed environmentally sensitive damaged product per California and Target regulations.
+
+---
+### Skills
+
+  * Python, C, C++, Java, Kotlin, JavaScript/CSS/HTML
+  * Code collaboration via GitHub
