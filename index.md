@@ -1,5 +1,7 @@
 # Jeremy D. Jones
+
 ---
+
 <div id="webaddress">
 <a href="mailto:j.jones1232@gmail.com">j.jones1232@gmail.com</a>
 | <a href="https://www.linkedin.com/in/jeremy-jones-b904a284/">LinkedIn</a>
@@ -14,6 +16,7 @@
   * *Bachelors of Science, Computer Science*
 
 ---
+
 ### Projects
 
   * **Greenhouse Project**: [PiGro](https://github.com/jerome1232/PiGro)
@@ -44,6 +47,7 @@
       * Processed environmentally sensitive damaged product per California and Target regulations.
 
 ---
+
 ### Skills
 
   * Python, C, C++, Java, Kotlin, JavaScript/CSS/HTML.
