@@ -11,7 +11,7 @@
 ### Education
 
 ***Brigham Young University - Idaho***, 2019 - 2022
-  * *Computer Science*
+  * *Bachelors of Science, Computer Science*
 
 ---
 ### Projects
