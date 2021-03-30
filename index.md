@@ -28,6 +28,7 @@
     * Collaborated remotely using Bitbucket with Git.
   * **Data Structure Tutorial**: [DataStruct-Tutorial](https://jerome1232.github.io/datastruct-tut/)
     * Created a basic tutorial teaching Data Structures using Python.
+    * Teaches concepts such as Big-O notation, Linked Lists, Queues, and Stacks.
 
   *(Projects below are on hold due to school time demands)*
 
