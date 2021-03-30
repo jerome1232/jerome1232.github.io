@@ -14,6 +14,7 @@
 
 ***Brigham Young University - Idaho***, 2019 - 2022
   * *Bachelors of Science, Computer Science*
+  * *3.68 Cumulative GPA*
 
 ---
 
