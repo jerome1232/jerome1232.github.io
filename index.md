@@ -34,13 +34,6 @@
     * Created a basic tutorial teaching Data Structures using Python.
     * Teaches concepts such as Big-O notation, Linked Lists, Queues, and Stacks.
 
-  *(Projects below are on hold due to school time demands)*
-
-  * **FPV Rasbperry Pi Car**: [PiCar](https://github.com/jerome1232/PiCar)
-    * A small remote controlled car that can be controlled from your phone.
-  * **Companion App for Pi Car**: [PiCar-Client](https://github.com/jerome1232/PiCar-Client)
-    * An android app that allows control of the car in the project above.
-
 ---
 
 ### Work History
