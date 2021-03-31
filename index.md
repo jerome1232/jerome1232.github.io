@@ -28,6 +28,8 @@
 __What was the end result? How many hours of labor did this save? Were the plants healthier? I know this is already 4 bullets long, but having a snippet that says "and these were the results" might help.__
 
   * **Covid-19 Tracker**:
+  * **Covid-19 Tracker**: [C19](https://github.com/jerome1232/C19)
+
     * Developed a Covid-19 tracking app as part of a team for Android using Kotlin.
     * Utilized three JSON api endpoints to find the data requested whether it be a state or country.
     * Primarily resolved data requests, also debugged various ui issues. __less words = clearer__
