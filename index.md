@@ -24,11 +24,12 @@
     * Developed an automated greenhouse controlled by an Arduino Uno.
     * Developed a web interface leveraging a Raspberry Pi connected to the Arduino via serial.
     * Leveraged D3.js to visualize sensor data in the web interface.
-    * Utilized Python scripting and Unix Domain Sockets to facilitate communication between web ui and Arduino.
+    * Utilized Python scripting, Unix Domain Sockets for inter-process communication, and a serial link to facilitate communication between web ui and Arduino.
+    * Successfully sprouted seeds during the Winter with no manual intervention.
   * **Covid-19 Tracker**: [C19](https://github.com/jerome1232/C19)
     * Developed a Covid-19 tracking app as part of a team for Android using Kotlin.
     * Utilized three JSON api endpoints to find the data requested whether it be a state or country.
-    * Primary responsibility was resolving data requests, I also contributed to debugging various ui issues.
+    * Primarily developed data model, and resolved requests for covid data, also debugged ui issues.
     * Collaborated remotely using Bitbucket with Git.
   * **Data Structure Tutorial**: [DataStruct-Tutorial](https://jerome1232.github.io/datastruct-tut/)
     * Created a basic tutorial teaching Data Structures using Python.
@@ -40,8 +41,8 @@
 
   * **Target Corporation**: 2008 - Present
     * ***Reverse Logistics***
-      * Act as a primary contact point with vendors.
-      * Receive incoming product, ensure all processes are correctly followed by team when salvaging or defecting product.
+      * Acted as a primary contact point with vendors.
+      * Received incoming product, ensure all processes are correctly followed by team when salvaging or defecting product.
     * ***Computerized Maintenance Management System Technician***
       * Managed trailer maintenance program with third party vendor.
       * Researched damages on trailers and pursued claims against third parties when fault was found resulting in saving thousands of dollars in trailer repairs.
